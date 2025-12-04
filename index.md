@@ -27,7 +27,7 @@ My GitHub page is https://github.com/Steve524 .
 
 My School Email is [steveneo@csu.fullerton.edu](steveneo@csu.fullerton.edu)
 
-My linkedin page is [https://www.linkedin.com/in/steven-ortiz-871559190/](https://www.linkedin.com/in/steven-ortiz-871559190/)
+My linkedin page is [www.linkedin.com/in/steven-ortiz-871559190](www.linkedin.com/in/steven-ortiz-871559190)
 
 ![image1](images/mongolian-horse.gif)
 
