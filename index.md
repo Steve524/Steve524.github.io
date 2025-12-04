@@ -4,7 +4,7 @@ Hello! My name is Steven Ortiz and I am currently a masters student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/Steve524 .
+My GitHub page is [Steve524](https://github.com/Steve524) .
 
 ## CPSC 120
 
@@ -31,5 +31,8 @@ My linkedin page is [www.linkedin.com/in/steven-ortiz-871559190](www.linkedin.co
 
 ![image1](images/mongolian-horse.gif)
 
+<audio autoplay loop>
+    <source src="images/music.mp3" type="audio/mpeg">
+</audio>
 
 
