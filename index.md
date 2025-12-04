@@ -16,7 +16,7 @@ My GitHub page is https://github.com/Steve524 .
 
 * [Lab 8](https://github.com/cpsc-fall-2025/cpsc-120-lab-08-noah-steven-jamarion/blob/main/part-2/pattern.cc)
 
-    Lab 8, part 2 was a favorite because I was able to learn how to make a pattern using loops. I was interested in this because I have seen acii art before and being able to make a program to form one was interesting. I was able to write program that was able to evenly distribute "-" "*" "|" using a nested for loop.
+    Lab 8, part 2 was a favorite because I was able to learn how to make a pattern using loops. I was interested in this because I have seen acii art before and being able to make a program to form one was interesting. I was able to write program that was able to evenly distribute "-" "*" "bars" using a nested for loop.
 
 * [Lab 10](https://github.com/cpsc-fall-2025/cpsc-120-lab-10-nathan-and-steven/tree/main/part-2)
 
