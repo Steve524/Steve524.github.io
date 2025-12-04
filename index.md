@@ -12,15 +12,15 @@ My GitHub page is https://github.com/Steve524 .
 
 * [Lab 2](https://github.com/cpsc-fall-2025/cpsc-120-lab-02-jay-cho-and-steven-ortiz/blob/main/part-1/madlib.cc)
 
-    Lab 2, part 1 was a favorite because though looking back it was a simple program printing and taking inputs it showed Introduction to how C++ looks and functions. I was able to learn how to declare string variables, print to the command line, and ask and store a users input.
+    Lab 2, Part 1 was one of my favorites because, even though it was a simple program that printed outputs and taking user's input, it introduced me to how C++ looks and functions. I learned how to declare string variables, print to the command line, and ask for and store user input.
 
 * [Lab 8](https://github.com/cpsc-fall-2025/cpsc-120-lab-08-noah-steven-jamarion/blob/main/part-2/pattern.cc)
 
-    Lab 8, part 2 was a favorite because I was able to learn how to make a pattern using loops. I was interested in this because I have seen acii art before and being able to make a program to form one was interesting. I was able to write program that was able to evenly distribute "-" "*" "bars" using a nested for loop.
+    Lab 8, part 2 was a favorite because I learned how to create a pattern using loops. I was interested in this because I have seen ASCII art before, and making a program to generate one was fun. I was able to write program that was able to evenly distribute "-" "*" "bars" using a nested for loop.
 
 * [Lab 10](https://github.com/cpsc-fall-2025/cpsc-120-lab-10-nathan-and-steven/tree/main/part-2)
 
-    Lab 10, part 2 was a favorite because here I was able to be introduced into how to read into csv files and be able to grab specific info from the different columns and rows using vectors and loops.
+    Lab 10, part 2 was a favorite because here I was able to be introduced into how to read into CSV files and be able to extract specific info from the different columns and rows using vectors and loops.
 
 
 ## Other Info
